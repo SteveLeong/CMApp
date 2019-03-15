@@ -42,9 +42,14 @@ Awwwards is one of **the** website I use when looking for inspiration. It's esse
 Websites like [greeeg.com](https://greeeg.com/) and [olouen.com](http://www.olouen.com/) just make me want to become a better designer so that one day I could create something as insane.
 
 ### 2. [JavaScript 30](https://javascript30.com/)
-JavaScript 30 is a challenge created by Wes Bos, a developer from Canada. He challenges you to solve a javascript problem every day for 30 days. Through doing this challenge I've remembered javascript techniques that have been glossed over in University and it has taught me new techniques I never knew! This challenge inspires me to keep learning and keep creating and after I complete it I fully intend to do my own challenge in which I create an application a day.
+JavaScript 30 is a challenge created by Wes Bos, a developer from Canada. He challenges you to solve a javascript problem every day for 30 days. Through doing this challenge I've remembered javascript techniques that had been glossed over in University and it's also taught me new techniques I never knew! This challenge inspires me to keep learning and keep creating and after I complete it I fully intend to do my own challenge in which I create an application a day.
 
 ## Focus
 
+If given the time and resources during my internship I would focus on learning everything I can from digital masters in a professional environment. I want to work with developers to learn the creative process of building an application or website in a hands on capacity as well as learn about the best practices and standards when it comes to development. If given the chance I would really like to learn and expand my experience with current popular frameworks, such as React, Angular, or Vue, because I believe becoming familiar with the newest and most popular technologies is the best way to grow as a developer. During my internship I hope to build something significant and useful, something that could actually impact people's everyday lives.
+
+
 ## Code Challenge
+
+[My Solution](https://codesandbox.io/s/54jxzmr87l)
  
