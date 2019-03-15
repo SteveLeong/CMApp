@@ -38,11 +38,11 @@ My Role:
 ## Inspiration
 
 ### 1. [Awwwards](https://www.awwwards.com/)
-Awwwards is one of **the** website I use when looking for inspiration. It's essentially a showcase for the top and most creative website designs. I like browsing Awwwards because it keeps me up-to-date on the cool new designs people are creating and what other designers think actually looks good. It sometimes blows my mind what people create and it makes me want to learn all these tricks and techniques.
+Awwwards is one of **the** websites I use when looking for inspiration. It's essentially a showcase for the top and most creative website designs. I like browsing Awwwards because it keeps me up-to-date on the cool new designs people are creating and what other designers think actually looks good. It sometimes blows my mind what people create and it makes me want to learn all these tricks and techniques.
 Websites like [greeeg.com](https://greeeg.com/) and [olouen.com](http://www.olouen.com/) just make me want to become a better designer so that one day I could create something as insane.
 
 ### 2. [JavaScript 30](https://javascript30.com/)
-JavaScript 30 is a challenge created by Wes Bos, a developer from Canada. He challenges you to solve a javascript problem every day for 30 days. Through doing this challenge I've remembered javascript techniques that had been glossed over in University and it's also taught me new techniques I never knew! This challenge inspires me to keep learning and keep creating and after I complete it I fully intend to do my own challenge in which I create an application a day.
+JavaScript 30 is a challenge created by Wes Bos, a developer from Canada. He challenges you to solve a javascript problem every day for 30 days. Through doing this challenge I've remembered javascript practices that had been glossed over in University and it's also taught me new techniques I never knew! This challenge inspires me to keep learning and keep creating and after I complete it I fully intend to do my own challenge in which I create an application a day.
 
 ## Focus
 
