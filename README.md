@@ -24,8 +24,16 @@ My Role:
     - Updating and authenticating users against a database using Mongoose and MongoDB
   - Implemented routing using Expressjs
 - Front-End Developer
-  - Created the Login and Register modal pop-ups
+  - Created the Login and Register modal pop-ups.
   - Assisted in UI/UX design such as navigation bar layout/position, Image modal layout, and color scheme.
+
+### 3. MatrixVision
+A web application that takes the user's webcam video and manipulates the pixels to create a matrix-like filter. Originally this was a final project I did for an Art class on Net Art, done entirely in javascript, but I recently decided to convert it to a React application. In doing so I learned about the React lifecycle and how to split up a javascript project into components.
+
+My Role:
+  - I created this by myself so I was the Lead Developer.
+  - Using javascript I learned how to take in a user's video and change the pixel RGB values. 
+  - On top of that I figured out how to draw characters onto the canvas and animate them in such a way that they appear falling down the screen while still looking like the video image.
 
 ## Inspiration
 
