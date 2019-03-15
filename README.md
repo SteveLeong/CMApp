@@ -9,10 +9,23 @@ My Role:
 
 - Lead Front-End Developer
   - During this project I took on the challenge of creating the layout and user flow of the app, which came with designing both low-fi and high-fi prototypes (using Sketch and Invision). 
-  - I also implemented those designs on two of the three main sections of the app which included creating the different tableViews, the navigation bar, and the tab bar.  
+  - I also implemented those designs on two of the three main sections of the app which included:
+    - Different tableViews and how they reacted to user interaction
+     - The navigation bar 
+      - The tab bar  
 
 ### 2. Critix
-This web application was created with a team of 4 as an image hosting application, similar to Instagram, designed for a specific kind of audience: creators who are looking for constructive criticism about their work. My role was mostly Back end but I did also assist the front end. 
+This web application was created with a team of 4 as an image hosting application, similar to Instagram, designed for a specific kind of audience: creators who are looking for constructive criticism about their work. As a rushed second attempt at a final project, given only a week to create, we are truly proud of the teamwork and end product.
+
+My Role:
+
+- Back-End Developer
+  - Handled User Log-in and Registration
+    - Updating and authenticating users against a database using Mongoose and MongoDB
+  - Implemented routing using Expressjs
+- Front-End Developer
+  - Created the Login and Register modal pop-ups
+  - Assisted in UI/UX design such as navigation bar layout/position, Image modal layout, and color scheme.
 
 ## Inspiration
 
