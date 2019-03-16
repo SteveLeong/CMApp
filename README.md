@@ -46,7 +46,7 @@ JavaScript 30 is a challenge created by Wes Bos, a developer from Canada. He cha
 
 ## Focus
 
-If given the time and resources during my internship I would focus on learning everything I can from digital masters in a professional environment. I want to work with developers to learn the creative process of building an application or website in a hands on capacity as well as learn about the best practices and standards when it comes to development. If given the chance I would really like to learn and expand my experience with current popular frameworks, such as React, Angular, or Vue, because I believe becoming familiar with the newest and most popular technologies is the best way to grow as a developer. During my internship I hope to build something significant and useful, something that could actually impact people's everyday lives.
+If given the time and resources during my internship I would focus on learning everything I can from the digital masters in a professional environment. I want to work with developers to learn the creative process of building a website in a hands on capacity as well as learn about the best practices and standards when it comes to development. If given the chance I would really like to learn and expand my experience with current popular frameworks, such as React, Angular, or Vue, because I believe becoming familiar with the newest and most popular technologies is the best way to grow as a developer. During my internship I hope to build a website that is significant and useful, a real life product that could actually impact people's everyday lives.
 
 
 ## Code Challenge
